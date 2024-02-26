@@ -17,4 +17,4 @@ def register():
 
 if __name__ == '__main__':
     print("Sathwik")
-    # app.run(debug=True)
+    app.run(debug=True)
