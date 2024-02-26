@@ -16,5 +16,5 @@ def register():
     return render_template('success.html', name=name, email=email)
 
 if __name__ == '__main__':
-    # print("Sathwik")
-    app.run(debug=True)
+    print("Sathwik")
+    # app.run(debug=True)
